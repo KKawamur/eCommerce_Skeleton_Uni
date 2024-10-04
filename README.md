@@ -1,1 +1,2 @@
-The task was to create a working model of an ecommerce system with a CRUD-reposiory and a functioning REST-API over several iterations with changing "customer" demands. This project was uploaded for job application purposes.
+My solution to a bigger software project at my TH.The task was to create a working model of an ecommerce system with a CRUD-reposiory and a functioning REST-API over several iterations with changing "customer" demands. 
+This project was uploaded for job application purposes. With ecxeption of the code in the "usecases"-file, the "ProjectApplication"-class, the "ShopException"-class, the "application.yml" and "pom.xml", all code has been written by me.
